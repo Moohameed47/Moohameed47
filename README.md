@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I'm Mohamed Tarek <br><br>- 🔭 I’m working as a frontend developer.<br>- 📚 I'm currently learning (NextJs, Accessibility best practices, JavaScript design patterns)<br>- ⚡ In my free time I build personal projects to experiment with new skills, Read technical blogs and articles to stay up-to-date</p>
+<p align="left"><br>- 🔭 I’m working as a frontend developer.<br>- 📚 I'm currently learning (NextJs, Accessibility best practices, JavaScript design patterns)<br>- ⚡ In my free time I build personal projects to experiment with new skills, Read technical blogs and articles to stay up-to-date</p>
 
 ###
 
